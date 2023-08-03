@@ -1,0 +1,24 @@
+.carte {
+  color: rgb(34, 34, 211);
+  background: rgb(33, 43, 49);
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+}
+
+/*Image avatar*/
+
+.carte img {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+.carte h1 {
+  font-size: 1.2rem;
+}
+
+.carte h1,
+.carte div {
+  height: 30px;
+}
